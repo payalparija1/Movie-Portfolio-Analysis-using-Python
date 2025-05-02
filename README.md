@@ -2,7 +2,7 @@
 Movie Portfolio Analysis using Python
 
 Project Description
-To perform a movie portfolio analysis using Python with libraries like Pandas, NumPy, and Matplotlib, we can follow a few key steps. I'll walk you through the process to analyze movie performance, calculate correlations, and build charts. You’ll need data on movies, such as their budget, revenue, genre, ratings, or box office performance. You can start by gathering a dataset (e.g., from sources like IMDb, Kaggle, or a personal dataset).
+To perform a movie portfolio analysis using Python with libraries like Pandas, NumPy, and Matplotlib to identify which genres, budgets, or release windows yield the best returns. I'll walk you through the process to analyze movie performance, calculate correlations, and build charts. You’ll need data on movies, such as their budget, revenue, genre, ratings, or box office performance. You can start by gathering a dataset (e.g., from sources like IMDb, Kaggle, or a personal dataset).
 Here is a basic step-by-step guide for performing the analysis:
 1. Data Preparation
 •	We'll load the data into a Pandas DataFrame.
